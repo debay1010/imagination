@@ -95,6 +95,11 @@ declare type TransformationTypeKey =
 	| "recolor"
 	| "removeBackground";
 
+// declare type ActivityTypeKey=     // for the bicycle site
+// 	| "sell"
+// 	| "rent"
+// 	| "service";
+
 // ====== URL QUERY PARAMS
 declare type FormUrlQueryParams = {
 	searchParams: string;

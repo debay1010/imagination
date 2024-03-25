@@ -194,18 +194,18 @@ export const creditFee = -1;
 
 // for the project
 
-// export const transformationTypes = {
+// export const activityTypes = {
 // 	sell: {
 // 		type: "sell",
-// 		title: "For Sale ",
-// 		subTitle: "Refine images by removing noise and imperfections",
+// 		title: "Bicycle & Parts Sales ",
+// 		subTitle: "Sell Bicycle and Bicycle parts",
 // 		config: { restore: true },
 // 		icon: "image.svg",
 // 	},
 // 	rent: {
 // 		type: "rent",
-// 		title: "Bicycle Rent/Leasing",
-// 		subTitle: "Post your bicycle items for renting",
+// 		title: "Bicycle Renting/Leasing",
+// 		subTitle: "List Bicycle for Renting or Leasing",
 // 		config: { removeBackground: true },
 // 		icon: "camera.svg",
 // 	},
