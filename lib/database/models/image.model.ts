@@ -19,6 +19,7 @@ import { number } from "zod";
 // }
 
 export interface IImage extends Document {
+	_id: string;
 	title: string;
 	transformationType: string;
 	publicId: string;
